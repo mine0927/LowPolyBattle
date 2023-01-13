@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a277eec3e597b2445bbf3faeb9e72d5a, type: 3}
+  m_Name: ItemAxe1
+  m_EditorClassIdentifier: 
+  _name: 
+  toolTip: "\uACF5\uACA9\uB825: 180 ~ 420\n\uACF5\uACA9 \uCFE8\uD0C0\uC784 1.5s\n"
+  type: 0
+  code: 51
+  image: {fileID: 2800000, guid: 7feb8a9c7f691b544a96e72911acd3dd, type: 3}
+  dropItem: {fileID: 4421263056496214818, guid: 1aa45da0a4b1816498875754daf1e96f, type: 3}
+  maxDurability: 0
+  weaponType: 1
+  isLeft: 0
+  isMelee: 0
+  minDam: 180
+  maxDam: 420
+  coolTime: 1.5
+  armor: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a277eec3e597b2445bbf3faeb9e72d5a, type: 3}
+  m_Name: ItemSword4
+  m_EditorClassIdentifier: 
+  _name: "\uD788\uC5B4\uB85C \uC18C\uB4DC"
+  toolTip: "\uACF5\uACA9\uB825 96 ~ 224\n\uACF5\uACA9 \uCFE8\uD0C0\uC784 1.0s"
+  type: 0
+  code: 68
+  image: {fileID: 2800000, guid: 3968a9a0254f3314d9ffa3bfd6abce68, type: 3}
+  dropItem: {fileID: 2938805711901437538, guid: 412c1f0568d04c84a8b5cabb02a999a6, type: 3}
+  maxDurability: 0
+  weaponType: 3
+  isLeft: 0
+  isMelee: 1
+  minDam: 96
+  maxDam: 224
+  coolTime: 1
+  armor: 0

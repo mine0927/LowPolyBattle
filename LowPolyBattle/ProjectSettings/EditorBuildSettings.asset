@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01.Scenes/01Login.unity
+    guid: d0d5ae6e1c0e12248be51883594e01a4
+  - enabled: 1
+    path: Assets/01.Scenes/02Character Custom.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/01.Scenes/03Lobby.unity
+    guid: 0e19c6620a7ad134abe355465fb09296
+  - enabled: 1
+    path: Assets/01.Scenes/04ReadyRoom.unity
+    guid: a6ea32e776c7dec47bb8e0612efc7d06
+  - enabled: 1
+    path: Assets/01.Scenes/Slavica Free 2022 Version.unity
+    guid: 4e4c5b0f6c1c69448be7c5631ed01457
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: a9bd5a545da17f149ae7f4ba75dfdc59, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: a8513726d510736419236a68250276e4, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: cb6edb9bcd34f734bbe07b0cee9845d3, type: 2}

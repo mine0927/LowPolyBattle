@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a277eec3e597b2445bbf3faeb9e72d5a, type: 3}
+  m_Name: ItemShield7
+  m_EditorClassIdentifier: 
+  _name: "\uC5D0\uBA54\uB784\uB4DC \uBC29\uD328"
+  toolTip: "\uBC29\uC5B4\uB825 72"
+  type: 0
+  code: 63
+  image: {fileID: 2800000, guid: f78f480da3caa2d459568cafb2ed71e2, type: 3}
+  dropItem: {fileID: 7282312581046196306, guid: 721e4fffeaf303e489cf022c88a0a23c, type: 3}
+  maxDurability: 0
+  weaponType: 4
+  isLeft: 1
+  isMelee: 1
+  minDam: 0
+  maxDam: 0
+  coolTime: 0
+  armor: 72

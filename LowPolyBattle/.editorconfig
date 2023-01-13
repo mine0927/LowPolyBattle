@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS1717: 같은 변수에 할당했습니다.
+dotnet_diagnostic.CS1717.severity = error

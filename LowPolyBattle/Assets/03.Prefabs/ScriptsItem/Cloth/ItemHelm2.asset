@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b88422959e7c04f47b0931b96168c7c3, type: 3}
+  m_Name: ItemHelm2
+  m_EditorClassIdentifier: 
+  _name: "\uC911\uC138 \uD22C"
+  toolTip: "\uBC29\uC5B4\uB825 30\n\uC774\uB3D9 \uC18D\uB3C4 +1"
+  type: 1
+  code: 28
+  image: {fileID: 2800000, guid: 757b8feb592ed854896f713713df97d5, type: 3}
+  dropItem: {fileID: 186484813135558300, guid: fba6ab99e8ff7464aa593896f305f8f6, type: 3}
+  maxDurability: 0
+  cloth: 5
+  speed: -0.1
+  armor: 30

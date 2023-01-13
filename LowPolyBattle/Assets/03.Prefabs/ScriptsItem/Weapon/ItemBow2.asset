@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a277eec3e597b2445bbf3faeb9e72d5a, type: 3}
+  m_Name: ItemBow2
+  m_EditorClassIdentifier: 
+  _name: "\uD0C4\uC18C\uC12C\uC720 \uD65C"
+  toolTip: "\uACF5\uACA9\uB825 162 ~ 378\n\uACF5\uACA9 \uCFE8\uD0C0\uC784 1.3s"
+  type: 0
+  code: 54
+  image: {fileID: 2800000, guid: cdfc56e3680eeaf4b9784dc12293af9e, type: 3}
+  dropItem: {fileID: 6598612833035870096, guid: c4eb61a01f8d5624e82dd74c4169e4a4, type: 3}
+  maxDurability: 0
+  weaponType: 5
+  isLeft: 1
+  isMelee: 0
+  minDam: 162
+  maxDam: 378
+  coolTime: 1.3
+  armor: 0

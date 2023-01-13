@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b88422959e7c04f47b0931b96168c7c3, type: 3}
+  m_Name: ItemCloth3
+  m_EditorClassIdentifier: 
+  _name: "\uC5EC\uD589\uC790 \uCC9C\uC637"
+  toolTip: "\uBC29\uC5B4\uB825 30\n\uC774\uB3D9\uC18D\uB3C4 +1"
+  type: 1
+  code: 6
+  image: {fileID: 2800000, guid: 80be19ba696a92644bd2fcdbb0feda92, type: 3}
+  dropItem: {fileID: 8386895462731999232, guid: c2be1fca7b263e64486c28f78475c7f1, type: 3}
+  maxDurability: 0
+  cloth: 1
+  speed: 0.1
+  armor: 30

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b88422959e7c04f47b0931b96168c7c3, type: 3}
+  m_Name: ItemGlove5
+  m_EditorClassIdentifier: 
+  _name: "\uB098\uB178\uC12C\uC720 \uAC74\uD2C0\uB81B"
+  toolTip: "\uBC29\uC5B4\uB825 40\n\uC774\uB3D9 \uC18D\uB3C4 -1"
+  type: 1
+  code: 21
+  image: {fileID: 2800000, guid: 578ddd8b61fbddf4e83cc985b1d535ec, type: 3}
+  dropItem: {fileID: 3391827966348482953, guid: 894d24ae92459a14f935745b008d23bb, type: 3}
+  maxDurability: 0
+  cloth: 3
+  speed: -0.1
+  armor: 40

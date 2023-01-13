@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b88422959e7c04f47b0931b96168c7c3, type: 3}
+  m_Name: ItemShoulderPad3
+  m_EditorClassIdentifier: 
+  _name: "\uAE08\uC18D \uC5B4\uAE68 \uBCF4\uD638\uAD6C"
+  toolTip: "\uBC29\uC5B4\uB825 20\n\uC774\uB3D9 \uC18D\uB3C4 -1"
+  type: 1
+  code: 42
+  image: {fileID: 2800000, guid: 44f9719c5f9750d4bbc8a5f8791f7a62, type: 3}
+  dropItem: {fileID: 2359486525946498416, guid: f5b0a1793bf70e1478367f45ddacaf7a, type: 3}
+  maxDurability: 0
+  cloth: 7
+  speed: -0.1
+  armor: 20

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b88422959e7c04f47b0931b96168c7c3, type: 3}
+  m_Name: ItemShoe6
+  m_EditorClassIdentifier: 
+  _name: "\uACBD\uB7C9\uD654\uD55C \uAE08\uC18D \uBD80\uCE20"
+  toolTip: "\uBC29\uC5B4\uB825 30\n\uC774\uB3D9 \uC18D\uB3C4 +15"
+  type: 1
+  code: 39
+  image: {fileID: 2800000, guid: 701796578ffdf304e8e97efdcf393c05, type: 3}
+  dropItem: {fileID: 6785987739697064431, guid: 0315a4cf2893aa246af5b135ae70f233, type: 3}
+  maxDurability: 0
+  cloth: 6
+  speed: 1.5
+  armor: 30

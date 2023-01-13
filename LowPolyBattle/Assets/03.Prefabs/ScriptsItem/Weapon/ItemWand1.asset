@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a277eec3e597b2445bbf3faeb9e72d5a, type: 3}
+  m_Name: ItemWand1
+  m_EditorClassIdentifier: 
+  _name: "\uC218\uC11D \uB9C8\uBC95\uC0AC\uC758 \uC9C0\uD321\uC774"
+  toolTip: "\uACF5\uACA9\uB825 120 ~ 280\n\uACF5\uACA9 \uCFE8\uD0C0\uC784 1.6s"
+  type: 0
+  code: 72
+  image: {fileID: 2800000, guid: 1ee29ca65a6c97f438aa7fade7bd4880, type: 3}
+  dropItem: {fileID: 8474330209763469080, guid: cc4a4a0bd49720348a1b3dbffac6e8ab, type: 3}
+  maxDurability: 0
+  weaponType: 6
+  isLeft: 0
+  isMelee: 0
+  minDam: 120
+  maxDam: 280
+  coolTime: 1.6
+  armor: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a277eec3e597b2445bbf3faeb9e72d5a, type: 3}
+  m_Name: ItemHammer2
+  m_EditorClassIdentifier: 
+  _name: "\uB77C\uC774\uD2B8\uB2DD \uD06C\uB9AC\uC2A4\uD0C8 \uB9DD\uCE58"
+  toolTip: "\uACF5\uACA9\uB825 360 ~840\n\uACF5\uACA9 \uCFE8\uD0C0\uC784 2.0s"
+  type: 0
+  code: 56
+  image: {fileID: 2800000, guid: 52ae11720e87e0c4db56ad6025c7264b, type: 3}
+  dropItem: {fileID: 2676979411729209851, guid: 7b116f52fd938e640ac9e772c79308a2, type: 3}
+  maxDurability: 0
+  weaponType: 2
+  isLeft: 0
+  isMelee: 1
+  minDam: 360
+  maxDam: 840
+  coolTime: 2
+  armor: 0
